@@ -1,0 +1,7 @@
+include: package:dart_frog_lint/recommended.yaml
+
+analyzer:
+  errors:
+    strict_raw_type: ignore
+    public_member_api_docs: ignore
+    leading_newlines_in_multiline_strings: ignore

@@ -12,6 +12,8 @@ workspace:
   - packages/shorebird_cli
   - packages/shorebird_code_push_client
   - packages/shorebird_code_push_protocol
+  - packages/self_hosted_server
+  - packages/shorebird_console
   - packages/stripe_api
 
 dev_dependencies:
